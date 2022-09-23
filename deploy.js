@@ -81,7 +81,7 @@ main()
 // 3. Pour drinks for everyone
 
 // Asynchronous
-// 1. Put popcorn in the mircrowave
+// 1. Put popcorn in the microwave
 // 2. Pour drinks for everyone
 // 3. Wait for popcorn to finish
 
